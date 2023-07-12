@@ -1,0 +1,32 @@
+@media (max-width: 986px) {
+  .containerCountrys {
+    justify-content: center;
+  }
+
+  .country {
+    margin: auto;
+  }
+
+  .attribution {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+}
+
+@media (max-width: 667px) {
+  .containerCountrys {
+    justify-content: center;
+  }
+
+  .country {
+    margin-bottom: 20px;
+    height: 360px;
+  }
+
+  .attribution {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+}
